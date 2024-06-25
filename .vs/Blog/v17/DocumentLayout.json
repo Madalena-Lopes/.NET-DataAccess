@@ -1,0 +1,660 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\Balta\\Blog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\blog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:blog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\postscreens\\createpostscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\postscreens\\createpostscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\postscreens\\listpostsscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\postscreens\\listpostsscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\posttagscreens\\createposttagscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\posttagscreens\\createposttagscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\userrolescreens\\createuserrolescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\userrolescreens\\createuserrolescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\posttagscreens\\menuposttagscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\posttagscreens\\menuposttagscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\posttagscreens\\deleteposttagscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\posttagscreens\\deleteposttagscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\postscreens\\menupostscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\postscreens\\menupostscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\postscreens\\updatepostscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\postscreens\\updatepostscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\userscreens\\listusersscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\userscreens\\listusersscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\userscreens\\updateuserscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\userscreens\\updateuserscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\rolescreens\\createrolescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\rolescreens\\createrolescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\categoryscreens\\createcategoryscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\categoryscreens\\createcategoryscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\userscreens\\createuserscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\userscreens\\createuserscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\postscreens\\deletepostscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\postscreens\\deletepostscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\userscreens\\menuuserscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\userscreens\\menuuserscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\userscreens\\deleteuserscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\userscreens\\deleteuserscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\rolescreens\\menurolescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\rolescreens\\menurolescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\repositories\\userrepository - inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:repositories\\userrepository - inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\tagscreens\\updatetagscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\tagscreens\\updatetagscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\tagscreens\\menutagscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\tagscreens\\menutagscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\tagscreens\\deletetagscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\tagscreens\\deletetagscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\tagscreens\\createtagscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\tagscreens\\createtagscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\rolescreens\\updaterolescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\rolescreens\\updaterolescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\rolescreens\\listrolesscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\rolescreens\\listrolesscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\rolescreens\\deleterolescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\rolescreens\\deleterolescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\categoryscreens\\updatecategoryscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\categoryscreens\\updatecategoryscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\categoryscreens\\menucategoryscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\categoryscreens\\menucategoryscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\categoryscreens\\listcategoriesscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\categoryscreens\\listcategoriesscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|c:\\dev\\balta\\blog\\screens\\categoryscreens\\deletecategoryscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138D8063-F881-403C-A073-35972DD81AF8}|Blog.csproj|solutionrelative:screens\\categoryscreens\\deletecategoryscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "Models\\Post.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Models\\Post.cs",
+              "RelativeToolTip": "Models\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:22:11.212Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAiwBIAAACdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:31:19.273Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Blog",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Blog.csproj",
+              "RelativeDocumentMoniker": "Blog.csproj",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Blog.csproj",
+              "RelativeToolTip": "Blog.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-21T15:52:49.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListPostsScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\PostScreens\\ListPostsScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\PostScreens\\ListPostsScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\PostScreens\\ListPostsScreen.cs",
+              "RelativeToolTip": "Screens\\PostScreens\\ListPostsScreen.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswDQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:08:08.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "Models\\Tag.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Models\\Tag.cs",
+              "RelativeToolTip": "Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:03:01.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T08:52:15.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateUserRoleScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\UserRoleScreens\\CreateUserRoleScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\UserRoleScreens\\CreateUserRoleScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\UserRoleScreens\\CreateUserRoleScreen.cs",
+              "RelativeToolTip": "Screens\\UserRoleScreens\\CreateUserRoleScreen.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAswDUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:51:13.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuPostScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\PostScreens\\MenuPostScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\PostScreens\\MenuPostScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\PostScreens\\MenuPostScreen.cs",
+              "RelativeToolTip": "Screens\\PostScreens\\MenuPostScreen.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:08:57.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeletePostTagScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\PostTagScreens\\DeletePostTagScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\PostTagScreens\\DeletePostTagScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\PostTagScreens\\DeletePostTagScreen.cs",
+              "RelativeToolTip": "Screens\\PostTagScreens\\DeletePostTagScreen.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswBsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:58:16.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuPostTagScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\PostTagScreens\\MenuPostTagScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\PostTagScreens\\MenuPostTagScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\PostTagScreens\\MenuPostTagScreen.cs",
+              "RelativeToolTip": "Screens\\PostTagScreens\\MenuPostTagScreen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:58:46.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreatePostScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\PostScreens\\CreatePostScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\PostScreens\\CreatePostScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\PostScreens\\CreatePostScreen.cs",
+              "RelativeToolTip": "Screens\\PostScreens\\CreatePostScreen.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:07:20.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreatePostTagScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\PostTagScreens\\CreatePostTagScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\PostTagScreens\\CreatePostTagScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\PostTagScreens\\CreatePostTagScreen.cs",
+              "RelativeToolTip": "Screens\\PostTagScreens\\CreatePostTagScreen.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:57:53.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdatePostScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\PostScreens\\UpdatePostScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\PostScreens\\UpdatePostScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\PostScreens\\UpdatePostScreen.cs",
+              "RelativeToolTip": "Screens\\PostScreens\\UpdatePostScreen.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:10:09.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateUserScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\UserScreens\\UpdateUserScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\UserScreens\\UpdateUserScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\UserScreens\\UpdateUserScreen.cs",
+              "RelativeToolTip": "Screens\\UserScreens\\UpdateUserScreen.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:23:41.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ListUsersScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\UserScreens\\ListUsersScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\UserScreens\\ListUsersScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\UserScreens\\ListUsersScreen.cs",
+              "RelativeToolTip": "Screens\\UserScreens\\ListUsersScreen.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:22:34.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repository.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Repositories\\Repository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAvwBwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:11:46.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:03:03.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateRoleScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\RoleScreens\\CreateRoleScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\RoleScreens\\CreateRoleScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\RoleScreens\\CreateRoleScreen.cs",
+              "RelativeToolTip": "Screens\\RoleScreens\\CreateRoleScreen.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:14:34.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateCategoryScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\CategoryScreens\\CreateCategoryScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\CategoryScreens\\CreateCategoryScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\CategoryScreens\\CreateCategoryScreen.cs",
+              "RelativeToolTip": "Screens\\CategoryScreens\\CreateCategoryScreen.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:04:31.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Repositories\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\RoleRepository.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Repositories\\RoleRepository.cs",
+              "RelativeToolTip": "Repositories\\RoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:33:35.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:02:59.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateUserScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\UserScreens\\CreateUserScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\UserScreens\\CreateUserScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\UserScreens\\CreateUserScreen.cs",
+              "RelativeToolTip": "Screens\\UserScreens\\CreateUserScreen.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:21:38.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:02:43.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DeletePostScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\PostScreens\\DeletePostScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\PostScreens\\DeletePostScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\PostScreens\\DeletePostScreen.cs",
+              "RelativeToolTip": "Screens\\PostScreens\\DeletePostScreen.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:07:36.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MenuUserScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\UserScreens\\MenuUserScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\UserScreens\\MenuUserScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\UserScreens\\MenuUserScreen.cs",
+              "RelativeToolTip": "Screens\\UserScreens\\MenuUserScreen.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:22:53.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DeleteUserScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\UserScreens\\DeleteUserScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\UserScreens\\DeleteUserScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\UserScreens\\DeleteUserScreen.cs",
+              "RelativeToolTip": "Screens\\UserScreens\\DeleteUserScreen.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:48:47.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MenuTagScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\TagScreens\\MenuTagScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\TagScreens\\MenuTagScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\TagScreens\\MenuTagScreen.cs",
+              "RelativeToolTip": "Screens\\TagScreens\\MenuTagScreen.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:31:54.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UpdateTagScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\TagScreens\\UpdateTagScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\TagScreens\\UpdateTagScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\TagScreens\\UpdateTagScreen.cs",
+              "RelativeToolTip": "Screens\\TagScreens\\UpdateTagScreen.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:42:23.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MenuRoleScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\RoleScreens\\MenuRoleScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\RoleScreens\\MenuRoleScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\RoleScreens\\MenuRoleScreen.cs",
+              "RelativeToolTip": "Screens\\RoleScreens\\MenuRoleScreen.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:15:05.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserRepository - inicial.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Repositories\\UserRepository - inicial.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository - inicial.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Repositories\\UserRepository - inicial.cs",
+              "RelativeToolTip": "Repositories\\UserRepository - inicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T08:52:05.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DeleteTagScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\TagScreens\\DeleteTagScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\TagScreens\\DeleteTagScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\TagScreens\\DeleteTagScreen.cs",
+              "RelativeToolTip": "Screens\\TagScreens\\DeleteTagScreen.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:34:23.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateTagScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\TagScreens\\CreateTagScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\TagScreens\\CreateTagScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\TagScreens\\CreateTagScreen.cs",
+              "RelativeToolTip": "Screens\\TagScreens\\CreateTagScreen.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:24:10.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UpdateRoleScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\RoleScreens\\UpdateRoleScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\RoleScreens\\UpdateRoleScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\RoleScreens\\UpdateRoleScreen.cs",
+              "RelativeToolTip": "Screens\\RoleScreens\\UpdateRoleScreen.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:17:12.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ListRolesScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\RoleScreens\\ListRolesScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\RoleScreens\\ListRolesScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\RoleScreens\\ListRolesScreen.cs",
+              "RelativeToolTip": "Screens\\RoleScreens\\ListRolesScreen.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:14:41.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DeleteRoleScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\RoleScreens\\DeleteRoleScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\RoleScreens\\DeleteRoleScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\RoleScreens\\DeleteRoleScreen.cs",
+              "RelativeToolTip": "Screens\\RoleScreens\\DeleteRoleScreen.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:16:43.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UpdateCategoryScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\CategoryScreens\\UpdateCategoryScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\CategoryScreens\\UpdateCategoryScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\CategoryScreens\\UpdateCategoryScreen.cs",
+              "RelativeToolTip": "Screens\\CategoryScreens\\UpdateCategoryScreen.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:06:44.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MenuCategoryScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\CategoryScreens\\MenuCategoryScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\CategoryScreens\\MenuCategoryScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\CategoryScreens\\MenuCategoryScreen.cs",
+              "RelativeToolTip": "Screens\\CategoryScreens\\MenuCategoryScreen.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:06:16.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ListCategoriesScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\CategoryScreens\\ListCategoriesScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\CategoryScreens\\ListCategoriesScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\CategoryScreens\\ListCategoriesScreen.cs",
+              "RelativeToolTip": "Screens\\CategoryScreens\\ListCategoriesScreen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:05:41.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DeleteCategoryScreen.cs",
+              "DocumentMoniker": "C:\\Dev\\Balta\\Blog\\Screens\\CategoryScreens\\DeleteCategoryScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\CategoryScreens\\DeleteCategoryScreen.cs",
+              "ToolTip": "C:\\Dev\\Balta\\Blog\\Screens\\CategoryScreens\\DeleteCategoryScreen.cs",
+              "RelativeToolTip": "Screens\\CategoryScreens\\DeleteCategoryScreen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:04:52.253Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
